@@ -7,7 +7,7 @@ I currently live in Ottawa, ON and am seeking full-time employment. Professional
 
 I have worked with Drupal, Wordpress when it comes to content management systems but I also love to web based applications.
 
--## How to Contact Me
+## How to Contact Me
 
 I generally prefer email but will gladly hop on a call.
 
