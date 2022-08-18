@@ -7,11 +7,9 @@ I currently live in Ottawa, ON and am seeking full-time employment. Professional
 
 I have worked with Drupal, Wordpress when it comes to content management systems but I also love to web based applications.
 
-- 👋 Hi, I’m @Jophillips
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-## How to Contact Me
+
+I generally prefer email but will gladly hop on a call.
 
 <!---
 Jophillips/Jophillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
